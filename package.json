@@ -1,0 +1,32 @@
+{
+  "name": "@thebarbellcrew/nutrition-engine",
+  "version": "1.0.0",
+  "description": "Open source Indian food nutrition database and macro calculation engine with over 2,500 verified fitness staples, Hindi aliases, and serving conversions.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "nutrition",
+    "indian food",
+    "macros",
+    "calories",
+    "fitness",
+    "diet",
+    "protein",
+    "thebarbellcrew"
+  ],
+  "author": "Surya Challa & TheBarbellCrew (https://thebarbellcrew.com)",
+  "license": "MIT",
+  "homepage": "https://thebarbellcrew.com/food-tracker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryachalla/open-nutrition-engine"
+  }
+}
