@@ -16,13 +16,13 @@ https://thebarbellcrew.com/food-tracker
 ## Installation
 
 ```bash
-npm install @thebarbellcrew/nutrition-engine
+npm install open-nutrition-engine
 ```
 
 ## Quick Start
 
 ```typescript
-import { searchFoods, createFoodEntry, computeFoodTotals } from '@thebarbellcrew/nutrition-engine';
+import { searchFoods, createFoodEntry, computeFoodTotals } from 'open-nutrition-engine';
 
 // 1. Search for a food
 const results = searchFoods({

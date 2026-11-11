@@ -1,5 +1,5 @@
 {
-  "name": "@thebarbellcrew/nutrition-engine",
+  "name": "open-nutrition-engine",
   "version": "1.0.0",
   "description": "Open source Indian food nutrition database and macro calculation engine with over 2,500 verified fitness staples, Hindi aliases, and serving conversions.",
   "main": "dist/index.js",
