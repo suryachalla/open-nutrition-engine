@@ -7,7 +7,7 @@ https://thebarbellcrew.com/food-tracker
 
 ## Features
 
-* Over 2500 verified Indian food items including curries, dals, grains, dairy, snacks, and non veg staples.
+* Over 5000 verified Indian and fitness food items including curries, dals, grains, dairy, snacks, and high protein staples.
 * Preconfigured serving sizes with gram conversions (bowls, pieces, katoris, spoons).
 * Dual language support with English names, Hindi names, and colloquial aliases.
 * Complete macro calculations (calories, protein, carbohydrates, fats, and fiber).

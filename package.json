@@ -1,7 +1,7 @@
 {
   "name": "open-nutrition-engine",
-  "version": "1.0.1",
-  "description": "Open source Indian food nutrition database and macro calculation engine with over 2,500 verified fitness staples, Hindi aliases, and serving conversions.",
+  "version": "1.1.0",
+  "description": "Open source Indian food nutrition database and macro calculation engine with over 5,000 verified fitness staples, Hindi aliases, and serving conversions.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -28,5 +28,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/suryachalla/open-nutrition-engine"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
   }
 }
